@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profile Card</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="card">
+    <img class="profile-picture" src="https://uploads.onecompiler.io/43n7h53fh/43n7haq3y/0-570x380.jpg"                                                 
+    <h2 class="name">Abhirami D</h2>
+    <p class="role">Web Developer</p>
+    <p class="description">I am a passionate beginner web developer eager to learn and grow in the world of web technologies.</p>
+    <div class="skills">
+      <ul>
+        <li>HTML/CSS</li>
+        <li>Java</li>
+        <li>python</li>
+      </ul>
+    </div>
+    <div class="social-media">
+      <a href="https://www.linkedin.com/in/i--ami3214" class="linkedin">LinkedIn</a>
+      <a href="https://github.com/abhi-rami123" class="github">GitHub</a>
+    </div>
+  </div>
+</body>
+</html>
